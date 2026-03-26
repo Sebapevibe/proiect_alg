@@ -63,3 +63,83 @@ Elemente: 10
 Timp: 0.000030 sec
 Elemente/secunda: 335570.54
 ------------------------------
+Data: 2026-03-26 11:22:22
+Elemente: 10000
+Timp: 6.457423 sec
+Elemente/secunda: 1548.61
+------------------------------
+Data: 2026-03-26 11:23:15
+Elemente: 10000
+Timp: 6.617541 sec
+Elemente/secunda: 1511.14
+------------------------------
+Data: 2026-03-26 11:25:05
+Elemente: 10000
+Timp: 6.947870 sec
+Elemente/secunda: 1439.29
+------------------------------
+Data: 2026-03-26 11:27:00
+Elemente: 10
+Timp: 0.000026 sec
+Elemente/secunda: 381679.87
+------------------------------
+Data: 2026-03-26 11:28:17
+Elemente: 100
+Timp: 0.000581 sec
+Elemente/secunda: 172028.21
+------------------------------
+Data: 2026-03-26 11:35:18
+Elemente: 10
+Timp: 0.000025 sec
+Elemente/secunda: 396826.04
+------------------------------
+Data: 2026-03-26 11:39:46
+Elemente: 10
+Timp: 0.000030 sec
+Elemente/secunda: 337837.92
+------------------------------
+Data: 2026-03-26 11:45:47
+Elemente: 100
+Timp: 0.001352 sec
+Elemente/secunda: 73959.02
+------------------------------
+Data: 2026-03-26 11:46:38
+Elemente: 10
+Timp: 0.000020 sec
+Elemente/secunda: 510203.23
+------------------------------
+Data: 2026-03-26 11:47:06
+Elemente: 10000
+Timp: 7.002528 sec
+Elemente/secunda: 1428.06
+------------------------------
+Data: 2026-03-26 11:51:15
+Elemente: 100000
+Timp: timeout
+Elemente/secunda: -
+------------------------------
+Data: 2026-03-26 11:52:11
+Elemente: 5000
+Timp: 1.878471 sec
+Elemente/secunda: 2661.74
+------------------------------
+Data: 2026-03-26 12:02:40
+Elemente: 1000000
+Timp: timeout
+Elemente/secunda: -
+------------------------------
+Data: 2026-03-26 12:02:59
+Elemente: 100
+Timp: 0.000684 sec
+Elemente/secunda: 146241.60
+------------------------------
+Data: 2026-03-26 12:06:55
+Elemente: 1
+Timp: 0.000011 sec
+Elemente/secunda: 93457.23
+------------------------------
+Data: 2026-03-26 12:07:25
+Elemente: 100
+Timp: 0.000634 sec
+Elemente/secunda: 157703.82
+------------------------------
