@@ -1,0 +1,65 @@
+Data: 2026-03-26 10:41:09
+Elemente: 10
+Timp: 0.000020 sec
+Elemente/secunda: 510206.26
+------------------------------
+Data: 2026-03-26 10:44:11
+Elemente: 100
+Timp: 0.000323 sec
+Elemente/secunda: 309214.58
+------------------------------
+Data: 2026-03-26 10:44:35
+Elemente: 1000
+Timp: 0.037552 sec
+Elemente/secunda: 26629.67
+------------------------------
+Data: 2026-03-26 10:44:59
+Elemente: 10000
+Timp: 2.870656 sec
+Elemente/secunda: 3483.52
+------------------------------
+Data: 2026-03-26 10:45:22
+Elemente: 1000
+Timp: 0.031561 sec
+Elemente/secunda: 31684.98
+------------------------------
+Data: 2026-03-26 10:46:47
+Elemente: 10
+Timp: 0.000024 sec
+Elemente/secunda: 418408.89
+------------------------------
+Data: 2026-03-26 10:47:20
+Elemente: 100
+Timp: 0.000393 sec
+Elemente/secunda: 254712.12
+------------------------------
+Data: 2026-03-26 10:47:43
+Elemente: 100
+Timp: 0.000409 sec
+Elemente/secunda: 244618.41
+------------------------------
+Data: 2026-03-26 10:48:07
+Elemente: 100
+Timp: 0.000444 sec
+Elemente/secunda: 225123.81
+------------------------------
+Data: 2026-03-26 10:48:36
+Elemente: 10000
+Timp: 2.910695 sec
+Elemente/secunda: 3435.61
+------------------------------
+Data: 2026-03-26 10:51:10
+Elemente: 10
+Timp: 0.000020 sec
+Elemente/secunda: 492609.91
+------------------------------
+Data: 2026-03-26 10:51:49
+Elemente: 150
+Timp: 0.000855 sec
+Elemente/secunda: 175336.06
+------------------------------
+Data: 2026-03-26 10:57:08
+Elemente: 10
+Timp: 0.000030 sec
+Elemente/secunda: 331125.86
+------------------------------

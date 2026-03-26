@@ -1,0 +1,85 @@
+Data: 2026-03-26 10:41:09
+Elemente: 10
+Timp: 0.000034 sec
+Elemente/secunda: 291544.95
+------------------------------
+Data: 2026-03-26 10:44:11
+Elemente: 100
+Timp: 0.000330 sec
+Elemente/secunda: 303122.10
+------------------------------
+Data: 2026-03-26 10:44:35
+Elemente: 1000
+Timp: 0.002990 sec
+Elemente/secunda: 334414.60
+------------------------------
+Data: 2026-03-26 10:44:59
+Elemente: 10000
+Timp: 0.027575 sec
+Elemente/secunda: 362646.01
+------------------------------
+Data: 2026-03-26 10:45:22
+Elemente: 1000
+Timp: 0.003470 sec
+Elemente/secunda: 288201.05
+------------------------------
+Data: 2026-03-26 10:46:47
+Elemente: 10
+Timp: 0.000033 sec
+Elemente/secunda: 303030.13
+------------------------------
+Data: 2026-03-26 10:47:20
+Elemente: 100
+Timp: 0.000235 sec
+Elemente/secunda: 424628.58
+------------------------------
+Data: 2026-03-26 10:47:20
+Elemente: 100
+Timp: 0.000148 sec
+Elemente/secunda: 676590.16
+------------------------------
+Data: 2026-03-26 10:47:43
+Elemente: 100
+Timp: 0.000186 sec
+Elemente/secunda: 536480.62
+------------------------------
+Data: 2026-03-26 10:47:43
+Elemente: 100
+Timp: 0.000335 sec
+Elemente/secunda: 298864.22
+------------------------------
+Data: 2026-03-26 10:48:07
+Elemente: 100
+Timp: 0.000210 sec
+Elemente/secunda: 477099.31
+------------------------------
+Data: 2026-03-26 10:48:07
+Elemente: 100
+Timp: 0.000351 sec
+Elemente/secunda: 284900.29
+------------------------------
+Data: 2026-03-26 10:48:36
+Elemente: 10000
+Timp: 0.025530 sec
+Elemente/secunda: 391696.04
+------------------------------
+Data: 2026-03-26 10:48:48
+Elemente: 10000
+Timp: 0.023127 sec
+Elemente/secunda: 432402.52
+------------------------------
+Data: 2026-03-26 10:51:10
+Elemente: 10
+Timp: 0.000026 sec
+Elemente/secunda: 380228.61
+------------------------------
+Data: 2026-03-26 10:51:49
+Elemente: 150
+Timp: 0.000397 sec
+Elemente/secunda: 377738.61
+------------------------------
+Data: 2026-03-26 10:57:08
+Elemente: 10
+Timp: 0.000032 sec
+Elemente/secunda: 313479.52
+------------------------------
